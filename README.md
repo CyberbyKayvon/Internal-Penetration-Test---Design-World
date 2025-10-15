@@ -5,10 +5,10 @@
 ## Overview
 This repository contains the deliverables and findings from an internal penetration test conducted against the Design World enterprise environment. The objective of this assessment was to identify exploitable vulnerabilities in a segmented network simulating a real-world enterprise domain, and to evaluate the potential impact of these vulnerabilities on business operations.
 
-> 📅 **Engagement Period**: Jun 2025 – Aug 2025  
-> 🧑‍💻 **Role**: Penetration Tester | Red Team Operator  
-> 🏢 **Client**: Simulated Enterprise – Design World  
-> 📄 **Report**: [Read Full PDF](https://cyberbykayvon.com/designworldpentest.pdf) *(link placeholder)*
+> **Engagement Period**: Jun 2025 – Aug 2025  
+> **Role**: Penetration Tester | Red Team Operator  
+> **Client**: Simulated Enterprise – Design World  
+> **Report**: [Read Full PDF](https://cyberbykayvon.com/designworldpentest.pdf) *(link placeholder)*
 
 ---
 
