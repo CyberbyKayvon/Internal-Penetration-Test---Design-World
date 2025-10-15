@@ -1,5 +1,3 @@
-# Internal-Penetration-Test---Design-World
-
 # Internal Network Penetration Test – Design World
 
 ## Overview
